@@ -15,6 +15,8 @@ I also agree that there is joy in working on especially when you get to see the 
 
 
 ### Carol Dweck on the Growth Mindset 
+Understanding our abilities can be developed. We can praise improvement and the process. 
+I  can implement this TED talk into my daily studies by approaching difficult challenges by really researching the base of the problem as well as really embracing the process and improvement of just trying to take on the challenge. I have noticed that I put a lot of pressure on myself for getting everything right and '100%' and just getting through problems instead of slowing down and enjoyingthe process of learning. I will be trying this in 401. 
 
 ### Angela Lee Duckworth on Grit
 
