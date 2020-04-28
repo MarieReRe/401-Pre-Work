@@ -28,8 +28,27 @@ I also agree with Alain on that we never know what someones true value is, and t
 
 ###  The Drs. Sarah on Impostor Syndrome - Pt 1 & Pt 2
 
+
+
 ### How to think like a programmer – lessons in problem solving
+- Why is problem solving important? 
+    - Problem solving is important because it is a meta-skill. A meta-skill is a skill that is reusable and can apply to a wide set of problems.  
+I believe this article builds upon the article about Deliberate practice. Building on someones successful problem solving framework, then adaptingit to your own unique style. 
+
+How to problem solve: 
+    1. Understand: What is the question asking for for? Can you explain it in plain english/simplest terms? 
+    2. Plan: Create a plan of attack, write down the exact steps we need to reach the answer. How do we get there? 
+        - “Given input X, what are the steps necessary to return output Y?”
+    3. Divide: *AGILE ANYONE?* Break the big problem into smaller sub-problems, then start with the simplest one. Build upon that sub problem and connect the dots. 
+    4. Stuck: If you get stuck along the way or run into an error utilizedebugging. Go step by step through your program to asses where the problem is. Keith had shown this in 201 and I need to get better at utilizing this in the console. 
+    5. Practice: Practice is key to earning how to problem solve. Practicing the same concepts over and over again with the difference types of questions will help solidify the concepts and help you improve your problem solving capabilities. 
+#### More on Meta-Skills: https://www.forbes.com/sites/lizryan/2016/03/10/five-meta-skills-youll-need-to-succeed-in-2020/#32dd4f8038a9
+
 
 ###  Pretend your time is worth $1000/hour
+The quote: 
+> “People are unhappy in large part because they are confused about what is valuable.” -William Irvine 
+Really resonates with me because sometimes I find it hard to navigate if I should study ore or relax or call a friend or socialize. The more I go through DeltaV the more clear my goals become. I should never have to stress about if I should socialize and take time away from my studies to call a friend that would stop being my frined if I focused on my goals and dreams. My time at DeltaV is so important and people who know me and my goals will see that. I need to bettwe prioritize my time and learn to tell people no. This is one of my weaknesses is saying yes to almost everything. I almost always put people before myself and never think of what is best for my emotional or physical wellbeing or prioritizing my time in general. If I pretended my time was worth $1,000 my life would look immensely different. 
+**Maybe during this time all of us could re-evaluate our lives to narrow down what is truly important for us?**
 
 ### What I Wish I Knew Before I Learned to Code
