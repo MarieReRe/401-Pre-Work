@@ -52,3 +52,9 @@ Really resonates with me because sometimes I find it hard to navigate if I shoul
 **Maybe during this time all of us could re-evaluate our lives to narrow down what is truly important for us?**
 
 ### What I Wish I Knew Before I Learned to Code
+- I feel this article is important to reiterate many concepts we have learned throughout 201 and 301 before we dive head first into 401. It is important that each of the students in my class learn differently and that each student can add value to a project because their different approach to the problem and how they know how to solve it. Each student brings their skillset and their talents to a project. Everyone has the ability to contribute.
+
+-  Also, this article points out another concept I have tried to do no matter how silly I feel. This concept is to ask questions, investing in my future by asking the questions that will help me solve problems I face could potentially help othhers later on in solving their own problems. This is also the only way to get the answers to the problems I am personally facing. I should always remember, my questions are really an investment in my own future. 
+
+
+- Commiting myself to lifelong learning and constant change is one concept I knew coming into the program. Technology is everchanging and rapidly changing so I am up for the challenge and this is one reason I wanted to begin in the tech field. I love constantly learning and finding new ways to do things. So far there have meen many ups and downs to my journey so far but they have all lead me to growth and learning in ways I would have never expected. 
