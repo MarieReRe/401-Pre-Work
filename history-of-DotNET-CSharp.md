@@ -5,6 +5,4 @@
 - It is general purpose and can be used for windows desktop applications and games but is becoming increasingly popular for mobile development too. 
 
 ### C# Versions
-There are currently 7
-
 ![](images/c%23-history.png)
