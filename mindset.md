@@ -23,6 +23,8 @@ Grit:  Courage and Resolve, Strength of character. The passion and perserverance
 Taking this TED talk into 401 is to really not give in when this class gets tough, when I run into a hard to deal with classmate, or when I encounter a new problem that I am unsure of. How can I work through those problems more effectively instead of trying to force them out or ignore that they are causing issues or backup? 
 
 ### Alain de Botton on Redefining Success
+Wow, this video really hit the nail on the head. As I said in the notes under Growth Mindset, I find there is a **TON** of pressure.I definitely take what happens very personally, trying to be successful add pressure, not wanting to fail or in last weeks final project not wanting to have an incomplete project was so much added pressure. 
+I also agree with Alain on that we never know what someones true value is, and that we should hold our judgements and probably treat everyone as if they have something to add. 
 
 ###  The Drs. Sarah on Impostor Syndrome - Pt 1 & Pt 2
 
