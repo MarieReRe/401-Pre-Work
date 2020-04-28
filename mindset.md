@@ -19,6 +19,8 @@ Understanding our abilities can be developed. We can praise improvement and the 
 I  can implement this TED talk into my daily studies by approaching difficult challenges by really researching the base of the problem as well as really embracing the process and improvement of just trying to take on the challenge. I have noticed that I put a lot of pressure on myself for getting everything right and '100%' and just getting through problems instead of slowing down and enjoyingthe process of learning. I will be trying this in 401. 
 
 ### Angela Lee Duckworth on Grit
+Grit:  Courage and Resolve, Strength of character. The passion and perserverance for longterm goals. 
+Taking this TED talk into 401 is to really not give in when this class gets tough, when I run into a hard to deal with classmate, or when I encounter a new problem that I am unsure of. How can I work through those problems more effectively instead of trying to force them out or ignore that they are causing issues or backup? 
 
 ### Alain de Botton on Redefining Success
 
