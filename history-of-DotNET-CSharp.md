@@ -6,4 +6,4 @@
 
 ### C# Versions
 There are currently 7
-<img src= "images/c#-history.png" width="100">
+<img src= "images/c#-history.png">
