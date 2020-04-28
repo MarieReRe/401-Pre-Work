@@ -26,10 +26,22 @@ Taking this TED talk into 401 is to really not give in when this class gets toug
 Wow, this video really hit the nail on the head. As I said in the notes under Growth Mindset, I find there is a **TON** of pressure.I definitely take what happens very personally, trying to be successful add pressure, not wanting to fail or in last weeks final project not wanting to have an incomplete project was so much added pressure. 
 I also agree with Alain on that we never know what someones true value is, and that we should hold our judgements and probably treat everyone as if they have something to add. 
 
-###  The Drs. Sarah on Impostor Syndrome - Pt 1 & Pt 2
+###  Impostor Syndrome
+Imposter Syndrome is feeling like a fraud, not as smart, not as capable....etc
+Possible solutions: 
+    - Make a habit of being uncomfortable
+    - Keep track of achievements
+    - Make fundamentals clear
+    - Get support from seniors
+
+In software development there is so much to know, we just know a tiny sliver of all of the information available. A key to overcoming *imposter syndrome* is not to focus on what you dont know but focus on what you **DO** know. We need to remember that we know a lot, and not knowing something doesnt mean that we are a step behind it just means there is more to learn and everyone has more to learn. 
 
 
-
+#### Other Imposter Syndrome Resources: 
+- Code Newbie Podcast S11:E8 
+- https://www.codingdojo.com/blog/programmer-imposter-syndrome
+- https://medium.com/@rajeefmk/why-does-software-developers-suffer-from-imposter-syndrome-ccf961d0c29a
+- https://www.youtube.com/watch?v=hIJdFxYlEKE&feature=emb_err_watch_on_yt 
 ### How to think like a programmer – lessons in problem solving
 - Why is problem solving important? 
     - Problem solving is important because it is a meta-skill. A meta-skill is a skill that is reusable and can apply to a wide set of problems.  
