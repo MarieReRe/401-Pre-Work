@@ -6,5 +6,4 @@
 
 ### C# Versions
 There are currently 7
-<img src= "images/c#-history.png" width="100">
-)
+![](images/c#-history.png)
